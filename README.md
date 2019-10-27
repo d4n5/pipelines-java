@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/D4N5/Project_20191008/_apis/build/status/d4n5.pipelines-java?branchName=master)](https://dev.azure.com/D4N5/Project_20191008/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
